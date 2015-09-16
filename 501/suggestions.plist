@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>170</key>
+	<string>T20, T20, DB</string>
+	<key>167</key>
+	<string>T20, T19, DB</string>
+	<key>164</key>
+	<string>T20, T18, DB</string>
+	<key>161</key>
+	<string>T20, T17, DB</string>
+	<key>160</key>
+	<string>T20, T20, D20</string>
+	<key>158</key>
+	<string>T20, T20, D19</string>
+	<key>157</key>
+	<string>T20, T19, D20</string>
+	<key>156</key>
+	<string>T20, T20, D18</string>
+	<key>155</key>
+	<string>T20, T15, DB</string>
+	<key>154</key>
+	<string>T20, T18, D20</string>
+	<key>153</key>
+	<string>T20, T19, D18</string>
+	<key>152</key>
+	<string>T20, T20, D16</string>
+	<key>151</key>
+	<string>T20, T17, D20</string>
+	<key>150</key>
+	<string>T20, T18, D18</string>
+	<key>149</key>
+	<string>T20, T19, D16</string>
+	<key>148</key>
+	<string>T20, T16, D20</string>
+	<key>147</key>
+	<string>T20, T17, D18</string>
+	<key>146</key>
+	<string>T20, T18, D16</string>
+	<key>145</key>
+	<string>T20, T15, D20</string>
+	<key>144</key>
+	<string>T20, T20, D12</string>
+	<key>143</key>
+	<string>T20, T17, D16</string>
+	<key>142</key>
+	<string>T20, T14, D20</string>
+	<key>141</key>
+	<string>T20, T15, D18</string>
+	<key>140</key>
+	<string>T20, T16, D16</string>
+	<key>139</key>
+	<string>T20, T13, D20</string>
+	<key>138</key>
+	<string>T20, T14, D18</string>
+	<key>137</key>
+	<string>T17, T18, D16</string>
+	<key>136</key>
+	<string>T20, T20, D8</string>
+	<key>135</key>
+	<string>T20, T15, D15</string>
+	<key>134</key>
+	<string>T20, T14, D16</string>
+	<key>133</key>
+	<string>T20, T19, D8</string>
+	<key>132</key>
+	<string>T20, T20, D6</string>
+	<key>131</key>
+	<string>T20, T13, D16</string>
+	<key>130</key>
+	<string>T20, T18, D8</string>
+	<key>129</key>
+	<string>T19, T20, D6</string>
+	<key>128</key>
+	<string>T18, T14, D16</string>
+	<key>127</key>
+	<string>T19, T18, D8</string>
+	<key>126</key>
+	<string>T19, T19, D6</string>
+	<key>125</key>
+	<string>B, T20, D20</string>
+	<key>124</key>
+	<string>T20, D16, D16</string>
+	<key>123</key>
+	<string>T19, T16, D9</string>
+	<key>122</key>
+	<string>T18, T20, D4</string>
+	<key>121</key>
+	<string>T20, T15, D8</string>
+	<key>120</key>
+	<string>T20, 20, D20</string>
+	<key>119</key>
+	<string>T19, T10, D16</string>
+	<key>118</key>
+	<string>T20, 18, D20</string>
+	<key>117</key>
+	<string>T20, 17, D20</string>
+	<key>116</key>
+	<string>T20, 16, D20</string>
+	<key>115</key>
+	<string>T20, 15, D20</string>
+	<key>114</key>
+	<string>T20, 14, D20</string>
+	<key>113</key>
+	<string>T20, 13, D20</string>
+	<key>112</key>
+	<string>T20, 20, D16</string>
+	<key>111</key>
+	<string>T20, 19, D16</string>
+	<key>110</key>
+	<string>T20, 18, D16</string>
+	<key>109</key>
+	<string>T20, 17, D16</string>
+	<key>108</key>
+	<string>T20, 16, D16</string>
+	<key>107</key>
+	<string>T19, 18, D16</string>
+	<key>106</key>
+	<string>T20, 14, D16</string>
+	<key>105</key>
+	<string>T20, 13, D16</string>
+	<key>104</key>
+	<string>T18, 18, D16</string>
+	<key>103</key>
+	<string>T20, 11, D16</string>
+	<key>102</key>
+	<string>T20, 10, D16</string>
+	<key>101</key>
+	<string>T17 18, D16</string>
+	<key>100</key>
+	<string>T20, D20</string>
+	<key>99</key>
+	<string>T19, 10, D16</string>
+	<key>98</key>
+	<string>T20, D19</string>
+	<key>97</key>
+	<string>T19, D20</string>
+	<key>96</key>
+	<string>T20, D18</string>
+	<key>95</key>
+	<string>T15, 18, D16</string>
+	<key>94</key>
+	<string>T18, D20</string>
+	<key>93</key>
+	<string>T19, D18</string>
+	<key>92</key>
+	<string>T20, D16</string>
+	<key>91</key>
+	<string>T17, D20</string>
+	<key>90</key>
+	<string>T18, D18</string>
+	<key>89</key>
+	<string>T19, D16</string>
+	<key>88</key>
+	<string>T16, D20</string>
+	<key>87</key>
+	<string>T17, D18</string>
+	<key>86</key>
+	<string>T18, D16</string>
+	<key>85</key>
+	<string>T15, D20</string>
+	<key>84</key>
+	<string>T20, D12</string>
+	<key>83</key>
+	<string>T17, D16</string>
+	<key>82</key>
+	<string>T14, D20</string>
+	<key>81</key>
+	<string>T15, D18</string>
+	<key>80</key>
+	<string>T16, D16</string>
+	<key>79</key>
+	<string>T13, D20</string>
+	<key>78</key>
+	<string>T14, D18</string>
+	<key>77</key>
+	<string>T15, D16</string>
+	<key>76</key>
+	<string>T20, D8</string>
+	<key>75</key>
+	<string>T15, D15</string>
+	<key>74</key>
+	<string>T14, D16</string>
+	<key>73</key>
+	<string>T19, D8</string>
+	<key>72</key>
+	<string>T20, D6</string>
+	<key>71</key>
+	<string>T13, D16</string>
+	<key>70</key>
+	<string>T18, D8</string>
+	<key>69</key>
+	<string>T19, D6</string>
+	<key>68</key>
+	<string>T16, D10</string>
+	<key>67</key>
+	<string>T17, D8</string>
+	<key>66</key>
+	<string>T10, D18</string>
+	<key>65</key>
+	<string>T15, D10</string>
+	<key>64</key>
+	<string>D16, D16</string>
+	<key>63</key>
+	<string>T13, D12</string>
+	<key>62</key>
+	<string>T10, D16</string>
+	<key>61</key>
+	<string>T15, D8</string>
+	<key>60</key>
+	<string>20, D20</string>
+	<key>59</key>
+	<string>19, D20</string>
+	<key>58</key>
+	<string>18, D20</string>
+	<key>57</key>
+	<string>17, D20</string>
+	<key>56</key>
+	<string>16, D20</string>
+	<key>55</key>
+	<string>15, D20</string>
+	<key>54</key>
+	<string>14, D20</string>
+	<key>53</key>
+	<string>13, D20</string>
+	<key>52</key>
+	<string>20, D16</string>
+	<key>51</key>
+	<string>19, D16</string>
+	<key>50</key>
+	<string>18, D16</string>
+	<key>49</key>
+	<string>17, D16</string>
+	<key>48</key>
+	<string>16, D16</string>
+	<key>47</key>
+	<string>15, D16</string>
+	<key>46</key>
+	<string>14, D16</string>
+	<key>45</key>
+	<string>13, D16</string>
+	<key>44</key>
+	<string>12, D16</string>
+	<key>43</key>
+	<string>11, D16</string>
+	<key>42</key>
+	<string>10, D16</string>
+	<key>41</key>
+	<string>9, D16</string>
+	<key>40</key>
+	<string>D20</string>
+</dict>
+</plist>
